@@ -26,36 +26,36 @@ I build practical software at the intersection of **JVM × AI × Developer Tools
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aiLi0617/ProtoVoy">🌊 ApiVoy</a></h3>
+      <p><strong><a href="https://github.com/aiLi0617/ProtoVoy">🌊 ApiVoy</a></strong></p>
       <p>轻量、本地优先、可扩展的多协议 API 调试客户端。统一支持 HTTP、GraphQL、gRPC、WebSocket、MQTT、Kafka、Redis 与 SQL 等协议。</p>
       <p><code>Rust</code> <code>Desktop</code> <code>API</code> <code>Local-first</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aiLi0617/dbx">🗄️ DBX</a></h3>
+      <p><strong><a href="https://github.com/aiLi0617/dbx">🗄️ DBX</a></strong></p>
       <p>轻量级开源数据库管理工具：在约 25 MB 的体积中支持 90+ 数据库，并提供桌面端、Docker、CLI、AI 助手与 MCP Server。</p>
       <p><code>Rust</code> <code>Database</code> <code>MCP</code> <code>Developer Tool</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aiLi0617/pub-local-jarvis">🦾 AI Jarvis</a></h3>
+      <p><strong><a href="https://github.com/aiLi0617/pub-local-jarvis">🦾 AI Jarvis</a></strong></p>
       <p>能理解屏幕和系统声音的本地全双工桌面助手，覆盖桌面陪伴、游戏互动、课程记录与本地记忆。</p>
       <p><code>Local AI</code> <code>Multimodal</code> <code>Windows</code> <code>Privacy</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aiLi0617/llm_wiki">🧠 LLM Wiki</a></h3>
+      <p><strong><a href="https://github.com/aiLi0617/llm_wiki">🧠 LLM Wiki</a></strong></p>
       <p>由 LLM 自动构建并持续维护的个人知识库，融合文档解析、知识图谱、语义检索、深度研究与 Agent 工作流。</p>
       <p><code>LLM</code> <code>Knowledge Graph</code> <code>RAG</code> <code>Agent</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aiLi0617/dbx-plugin-toolbox">🧰 DBX Toolbox</a></h3>
+      <p><strong><a href="https://github.com/aiLi0617/dbx-plugin-toolbox">🧰 DBX Toolbox</a></strong></p>
       <p>面向开发者的本地工具集合与加密密钥库，整合数据转换、文本处理、编解码、图像处理和密码学能力。</p>
       <p><code>Plugin</code> <code>Rust</code> <code>Security</code> <code>Offline-first</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aiLi0617/deepseek-harness">🔌 DeepSeek Harness</a></h3>
+      <p><strong><a href="https://github.com/aiLi0617/deepseek-harness">🔌 DeepSeek Harness</a></strong></p>
       <p>围绕“Everything is a plugin”架构进行探索的开放式 Agent Harness，关注可组合、可扩展的智能体运行时。</p>
       <p><code>Agent Harness</code> <code>TypeScript</code> <code>Plugin System</code></p>
     </td>
