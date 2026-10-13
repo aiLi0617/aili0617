@@ -23,44 +23,18 @@ I build practical software at the intersection of **JVM × AI × Developer Tools
 
 ## 🚀 Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/aiLi0617/ProtoVoy">🌊 ApiVoy</a></strong></p>
-      <p>轻量、本地优先、可扩展的多协议 API 调试客户端。统一支持 HTTP、GraphQL、gRPC、WebSocket、MQTT、Kafka、Redis 与 SQL 等协议。</p>
-      <p><code>Rust</code> <code>Desktop</code> <code>API</code> <code>Local-first</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/aiLi0617/dbx">🗄️ DBX</a></strong></p>
-      <p>轻量级开源数据库管理工具：在约 25 MB 的体积中支持 90+ 数据库，并提供桌面端、Docker、CLI、AI 助手与 MCP Server。</p>
-      <p><code>Rust</code> <code>Database</code> <code>MCP</code> <code>Developer Tool</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/aiLi0617/pub-local-jarvis">🦾 AI Jarvis</a></strong></p>
-      <p>能理解屏幕和系统声音的本地全双工桌面助手，覆盖桌面陪伴、游戏互动、课程记录与本地记忆。</p>
-      <p><code>Local AI</code> <code>Multimodal</code> <code>Windows</code> <code>Privacy</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/aiLi0617/llm_wiki">🧠 LLM Wiki</a></strong></p>
-      <p>由 LLM 自动构建并持续维护的个人知识库，融合文档解析、知识图谱、语义检索、深度研究与 Agent 工作流。</p>
-      <p><code>LLM</code> <code>Knowledge Graph</code> <code>RAG</code> <code>Agent</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/aiLi0617/dbx-plugin-toolbox">🧰 DBX Toolbox</a></strong></p>
-      <p>面向开发者的本地工具集合与加密密钥库，整合数据转换、文本处理、编解码、图像处理和密码学能力。</p>
-      <p><code>Plugin</code> <code>Rust</code> <code>Security</code> <code>Offline-first</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/aiLi0617/deepseek-harness">🔌 DeepSeek Harness</a></strong></p>
-      <p>围绕“Everything is a plugin”架构进行探索的开放式 Agent Harness，关注可组合、可扩展的智能体运行时。</p>
-      <p><code>Agent Harness</code> <code>TypeScript</code> <code>Plugin System</code></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/aiLi0617/ProtoVoy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=ProtoVoy&theme=github_dark&hide_border=true&bg_color=00000000" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=ProtoVoy&theme=default&hide_border=true&bg_color=00000000" alt="ProtoVoy repository card" /></picture></a>
+<a href="https://github.com/aiLi0617/dbx"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=dbx&theme=github_dark&hide_border=true&bg_color=00000000" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=dbx&theme=default&hide_border=true&bg_color=00000000" alt="DBX repository card" /></picture></a>
+
+<a href="https://github.com/aiLi0617/pub-local-jarvis"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=pub-local-jarvis&theme=github_dark&hide_border=true&bg_color=00000000" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=pub-local-jarvis&theme=default&hide_border=true&bg_color=00000000" alt="AI Jarvis repository card" /></picture></a>
+<a href="https://github.com/aiLi0617/llm_wiki"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=llm_wiki&theme=github_dark&hide_border=true&bg_color=00000000" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=llm_wiki&theme=default&hide_border=true&bg_color=00000000" alt="LLM Wiki repository card" /></picture></a>
+
+<a href="https://github.com/aiLi0617/dbx-plugin-toolbox"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=dbx-plugin-toolbox&theme=github_dark&hide_border=true&bg_color=00000000" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=dbx-plugin-toolbox&theme=default&hide_border=true&bg_color=00000000" alt="DBX Toolbox repository card" /></picture></a>
+<a href="https://github.com/aiLi0617/deepseek-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=deepseek-harness&theme=github_dark&hide_border=true&bg_color=00000000" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aiLi0617&repo=deepseek-harness&theme=default&hide_border=true&bg_color=00000000" alt="DeepSeek Harness repository card" /></picture></a>
+
+</div>
 
 ## 🛠️ Tech stack
 
